@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/e-was24/e-was24/main/profile_github.jpg" width="180" style="border-radius:50%; border:2px solid #8FD9FF;" />
+<img src="https://raw.githubusercontent.com/e-was24/e-was24/main/profile/photo-frame.svg" width="220" />
 
 <!-- <sub>`[ UNIT SCAN COMPLETE ]`</sub> -->
 
@@ -137,7 +137,7 @@ firmware: v2026.08.03
 <img src="https://raw.githubusercontent.com/e-was24/e-was24/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 <!--END_SECTION:contribution-snake-->
 
-<sub>*Muncul otomatis setelah workflow Action pertama kali dijalankan — lihat catatan setup di bawah pesan ini.*</sub>
+<!-- <sub>*Muncul otomatis setelah workflow Action pertama kali dijalankan — lihat catatan setup di bawah pesan ini.*</sub> -->
 
 </div>
 
