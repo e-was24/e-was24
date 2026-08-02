@@ -20,9 +20,9 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/e-was24/e-was24/main/profile/photo.png" width="180" style="border-radius:50%; border:2px solid #8FD9FF;" />
+<img src="https://raw.githubusercontent.com/e-was24/e-was24/main/profile_github.jpg" width="180" style="border-radius:50%; border:2px solid #8FD9FF;" />
 
-<sub>`[ UNIT SCAN COMPLETE ]`</sub>
+<!-- <sub>`[ UNIT SCAN COMPLETE ]`</sub> -->
 
 </div>
 
