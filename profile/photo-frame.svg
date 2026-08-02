@@ -43,7 +43,7 @@
   </g>
 
   <!-- photo, clipped to circle -->
-  <image href="https://raw.githubusercontent.com/e-was24/e-was24/main/profile/profile_github.jpg"
+  <image href="https://raw.githubusercontent.com/e-was24/e-was24/main/profile/profile_github.jpeg"
          x="42" y="42" width="176" height="176"
          clip-path="url(#circleClip)"
          preserveAspectRatio="xMidYMid slice"/>
