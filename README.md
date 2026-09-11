@@ -68,7 +68,7 @@ firmware: v2026.08.03
 
 ### `02` &nbsp;·&nbsp; TECH STACK
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nodejs,flask,opencv,git,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,react,nodejs,opencv,git,vscode&theme=dark" />
 
 <br/><br/>
 
