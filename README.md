@@ -106,11 +106,11 @@ firmware: v2026.08.03
 
 | Module | Progress |
 |---|---|
-| 🤖 Robotics | ▰▰▰▰▰▱▱▱▱▱ |
-| 👁️ Computer Vision | ▰▰▰▰▰▱▱▱▱▱ |
-| 🌐 Full Stack | ▰▰▰▰▰▰▰▰▰▱ |
-| 📡 IoT | ▰▰▰▰▰▰▰▰▰▱ |
-| 🧠 Artificial Intelligence | ▰▱▱▱▱▱▱▱▱▱ |
+| 🤖 Robotics | ▱▱▱▱▱▱▱▱▱▱ |
+| 👁️ Computer Vision | ▰▰▰▱▱▱▱▱▱▱ |
+| 🌐 Full Stack | ▰▰▰▰▰▰▱▱▱▱ |
+| 📡 IoT | ▰▰▰▱▱▱▱▱▱▱ |
+| 🧠 Artificial Intelligence | ▱▱▱▱▱▱▱▱▱▱ |
 
 </div>
 
